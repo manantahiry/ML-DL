@@ -1,0 +1,262 @@
+[
+    {
+        "id": 0,
+        "dialect": "miroro.wav",
+        "path": "audio_dialect/miroro.wav"
+    },
+    {
+        "id": 1,
+        "dialect": "baliky.wav",
+        "path": "audio_dialect/baliky.wav"
+    },
+    {
+        "id": 2,
+        "dialect": "malisa.wav",
+        "path": "audio_dialect/malisa.wav"
+    },
+    {
+        "id": 3,
+        "dialect": "meloky.wav",
+        "path": "audio_dialect/meloky.wav"
+    },
+    {
+        "id": 4,
+        "dialect": "tendriky.wav",
+        "path": "audio_dialect/tendriky.wav"
+    },
+    {
+        "id": 5,
+        "dialect": "soa.wav",
+        "path": "audio_dialect/soa.wav"
+    },
+    {
+        "id": 6,
+        "dialect": "raty.wav",
+        "path": "audio_dialect/raty.wav"
+    },
+    {
+        "id": 7,
+        "dialect": "mafaitry.wav",
+        "path": "audio_dialect/mafaitry.wav"
+    },
+    {
+        "id": 8,
+        "dialect": "mahery.wav",
+        "path": "audio_dialect/mahery.wav"
+    },
+    {
+        "id": 9,
+        "dialect": "madiro.wav",
+        "path": "audio_dialect/madiro.wav"
+    },
+    {
+        "id": 10,
+        "dialect": "mangily.wav",
+        "path": "audio_dialect/mangily.wav"
+    },
+    {
+        "id": 11,
+        "dialect": "lomay.wav",
+        "path": "audio_dialect/lomay.wav"
+    },
+    {
+        "id": 12,
+        "dialect": "hanonitry.wav",
+        "path": "audio_dialect/hanonitry.wav"
+    },
+    {
+        "id": 13,
+        "dialect": "tea.wav",
+        "path": "audio_dialect/tea.wav"
+    },
+    {
+        "id": 14,
+        "dialect": "ferenesana.wav",
+        "path": "audio_dialect/ferenesana.wav"
+    },
+    {
+        "id": 15,
+        "dialect": "tiaro.wav",
+        "path": "audio_dialect/tiaro.wav"
+    },
+    {
+        "id": 16,
+        "dialect": "manintsy.wav",
+        "path": "audio_dialect/manintsy.wav"
+    },
+    {
+        "id": 17,
+        "dialect": "mihina.wav",
+        "path": "audio_dialect/mihina.wav"
+    },
+    {
+        "id": 18,
+        "dialect": "amaray.wav",
+        "path": "audio_dialect/amaray.wav"
+    },
+    {
+        "id": 19,
+        "dialect": "matsitsiny.wav",
+        "path": "audio_dialect/matsitsiny.wav"
+    },
+    {
+        "id": 20,
+        "dialect": "mikariokarioky.wav",
+        "path": "audio_dialect/mikariokarioky.wav"
+    },
+    {
+        "id": 21,
+        "dialect": "matity.wav",
+        "path": "audio_dialect/matity.wav"
+    },
+    {
+        "id": 22,
+        "dialect": "maintso.wav",
+        "path": "audio_dialect/maintso.wav"
+    },
+    {
+        "id": 23,
+        "dialect": "vony.wav",
+        "path": "audio_dialect/vony.wav"
+    },
+    {
+        "id": 24,
+        "dialect": "malay.wav",
+        "path": "audio_dialect/malay.wav"
+    },
+    {
+        "id": 25,
+        "dialect": "mberoa.wav",
+        "path": "audio_dialect/mberoa.wav"
+    },
+    {
+        "id": 26,
+        "dialect": "mbetia.wav",
+        "path": "audio_dialect/mbetia.wav"
+    },
+    {
+        "id": 27,
+        "dialect": "bakao.wav",
+        "path": "audio_dialect/bakao.wav"
+    },
+    {
+        "id": 28,
+        "dialect": "bakeo.wav",
+        "path": "audio_dialect/bakeo.wav"
+    },
+    {
+        "id": 29,
+        "dialect": "mpamaraky.wav",
+        "path": "audio_dialect/mpamaraky.wav"
+    },
+    {
+        "id": 30,
+        "dialect": "njarahy.wav",
+        "path": "audio_dialect/njarahy.wav"
+    },
+    {
+        "id": 31,
+        "dialect": "nahoda.wav",
+        "path": "audio_dialect/nahoda.wav"
+    },
+    {
+        "id": 32,
+        "dialect": "akory.wav",
+        "path": "audio_dialect/akory.wav"
+    },
+    {
+        "id": 33,
+        "dialect": "miboaky.wav",
+        "path": "audio_dialect/miboaky.wav"
+    },
+    {
+        "id": 34,
+        "dialect": "amonto.wav",
+        "path": "audio_dialect/amonto.wav"
+    },
+    {
+        "id": 35,
+        "dialect": "iha.wav",
+        "path": "audio_dialect/iha.wav"
+    },
+    {
+        "id": 36,
+        "dialect": "rozy.wav",
+        "path": "audio_dialect/rozy.wav"
+    },
+    {
+        "id": 37,
+        "dialect": "ajaha.wav",
+        "path": "audio_dialect/ajaha.wav"
+    },
+    {
+        "id": 38,
+        "dialect": "anakampela.wav",
+        "path": "audio_dialect/anakampela.wav"
+    },
+    {
+        "id": 39,
+        "dialect": "mavozo.wav",
+        "path": "audio_dialect/mavozo.wav"
+    },
+    {
+        "id": 40,
+        "dialect": "minday.wav",
+        "path": "audio_dialect/minday.wav"
+    },
+    {
+        "id": 41,
+        "dialect": "bele.wav",
+        "path": "audio_dialect/bele.wav"
+    },
+    {
+        "id": 42,
+        "dialect": "mare.wav",
+        "path": "audio_dialect/mare.wav"
+    },
+    {
+        "id": 43,
+        "dialect": "hoasako.wav",
+        "path": "audio_dialect/hoasako.wav"
+    },
+    {
+        "id": 44,
+        "dialect": "gegy.wav",
+        "path": "audio_dialect/gegy.wav"
+    },
+    {
+        "id": 45,
+        "dialect": "mihisa.wav",
+        "path": "audio_dialect/mihisa.wav"
+    },
+    {
+        "id": 46,
+        "dialect": "trobo.wav",
+        "path": "audio_dialect/trobo.wav"
+    },
+    {
+        "id": 47,
+        "dialect": "tseriky.wav",
+        "path": "audio_dialect/tseriky.wav"
+    },
+    {
+        "id": 48,
+        "dialect": "volagna.wav",
+        "path": "audio_dialect/volagna.wav"
+    },
+    {
+        "id": 49,
+        "dialect": "drala.wav",
+        "path": "audio_dialect/drala.wav"
+    },
+    {
+        "id": 50,
+        "dialect": "tsoha.wav",
+        "path": "audio_dialect/tsoha.wav"
+    },
+    {
+        "id": 51,
+        "dialect": "sasy.wav",
+        "path": "audio_dialect/sasy.wav"
+    }
+]
